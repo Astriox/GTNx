@@ -1,4 +1,4 @@
-# GTNx
+#               GTnXBot
 A PowerFul Edited Bot More Than Feature's Included
 
 
