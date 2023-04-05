@@ -1,5 +1,5 @@
 # GTNx
-A PowerFul Edited Autofilter + Filter + File store Bot 
+A PowerFul Edited Bot More Than Feature's Included
 
 
        Edited By Pancho
