@@ -13,7 +13,7 @@ wget
 aiofiles
 ffmpeg-python
 ffmpeg
-
+imdbpy
 requests
 aiohttp==3.7.4
 gTTS
